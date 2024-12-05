@@ -1,5 +1,5 @@
 layout: page
 title: "erjolb"
-permalink: /URL-PATH
+permalink: /erjolb
 
 Hello World!
