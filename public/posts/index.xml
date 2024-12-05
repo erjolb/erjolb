@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ErjolB</title>
+    <link>https://erjolb.github.io/erjolb/posts/</link>
+    <description>Recent content in Posts on ErjolB</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 22:12:07 +0100</lastBuildDate>
+    <atom:link href="https://erjolb.github.io/erjolb/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://erjolb.github.io/erjolb/posts/hello/</link>
+      <pubDate>Thu, 05 Dec 2024 22:12:07 +0100</pubDate>
+      <guid>https://erjolb.github.io/erjolb/posts/hello/</guid>
+      <description>&lt;p&gt;#Hellow World!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = 'https://erjolb.github.io/erjolb/'
+languageCode = 'en-us'
+title = 'ErjolB'
+theme = 'ananke'

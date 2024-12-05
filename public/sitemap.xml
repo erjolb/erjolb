@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://erjolb.github.io/erjolb/</loc>
+    <lastmod>2024-12-05T22:12:07+01:00</lastmod>
+  </url><url>
+    <loc>https://erjolb.github.io/erjolb/posts/hello/</loc>
+    <lastmod>2024-12-05T22:12:07+01:00</lastmod>
+  </url><url>
+    <loc>https://erjolb.github.io/erjolb/posts/</loc>
+    <lastmod>2024-12-05T22:12:07+01:00</lastmod>
+  </url><url>
+    <loc>https://erjolb.github.io/erjolb/categories/</loc>
+  </url><url>
+    <loc>https://erjolb.github.io/erjolb/tags/</loc>
+  </url>
+</urlset>
